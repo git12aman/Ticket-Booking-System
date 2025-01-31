@@ -40,13 +40,3 @@ The booking will be removed from the system.
 Cancel Event:
 
 Click the "Cancel Event" button to remove an event from the system.
-Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ticket-booking-system.git
-Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
-
-Run the TicketBookingSystemGUI.java class to start the application.
